@@ -1,0 +1,154 @@
+﻿[2016.03.30-18.03.11:411][  0]Log file open, 03/30/16 14:03:11
+[2016.03.30-18.03.11:411][  0]LogInit:Display: Running engine for game: DontBeASquare
+[2016.03.30-18.03.11:411][  0]LogInit:Display: RandInit(-1378086019) SRandInit(-1378086019).
+[2016.03.30-18.03.11:411][  0]LogTaskGraph: Started task graph with 4 named threads and 7 total threads.
+[2016.03.30-18.03.11:411][  0]LogStats: Stats thread started at 1.459600
+[2016.03.30-18.03.11:411][  0]LogInit: Version: 4.9.2-2707645+++depot+UE4-Releases+4.9
+[2016.03.30-18.03.11:411][  0]LogInit: API Version: 2672455
+[2016.03.30-18.03.11:411][  0]LogInit: Compiled (64-bit): Sep 28 2015 10:25:44
+[2016.03.30-18.03.11:411][  0]LogInit: Compiled with Visual C++: 18.00.21005.01
+[2016.03.30-18.03.11:411][  0]LogInit: Build Configuration: Development
+[2016.03.30-18.03.11:411][  0]LogInit: Branch Name: ++depot+UE4-Releases+4.9
+[2016.03.30-18.03.11:411][  0]LogInit: Command line:  
+[2016.03.30-18.03.11:411][  0]LogInit: Base directory: C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/
+[2016.03.30-18.03.11:411][  0]LogInit: Rocket: 1
+[2016.03.30-18.03.11:491][  0]LogInit: Using libcurl 7.41.0
+[2016.03.30-18.03.11:491][  0]LogInit:  - built for x86_64-pc-win32
+[2016.03.30-18.03.11:491][  0]LogInit:  - supports SSL with WinSSL
+[2016.03.30-18.03.11:491][  0]LogInit:  - other features:
+[2016.03.30-18.03.11:491][  0]LogInit:      CURL_VERSION_SSL
+[2016.03.30-18.03.11:491][  0]LogInit:      CURL_VERSION_IPV6
+[2016.03.30-18.03.11:491][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2016.03.30-18.03.11:491][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2016.03.30-18.03.11:491][  0]LogInit:      CURL_VERSION_IDN
+[2016.03.30-18.03.11:491][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2016.03.30-18.03.11:491][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2016.03.30-18.03.11:491][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2016.03.30-18.03.11:491][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2016.03.30-18.03.11:491][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2016.03.30-18.03.11:584][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2016.03.30-18.03.11:663][  0]LogInit: Object subsystem initialized
+[2016.03.30-18.03.11:801][  0]LogInit: Selected Device Profile: [Windows]
+[2016.03.30-18.03.11:801][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.03.30-18.03.11:891][  0]LogInit: Computer: FL222-07
+[2016.03.30-18.03.11:891][  0]LogInit: User: wofrick
+[2016.03.30-18.03.11:891][  0]LogInit: CPU Page size=4096, Cores=4
+[2016.03.30-18.03.11:912][  0]LogInit: High frequency timer resolution =3.906308 MHz
+[2016.03.30-18.03.11:913][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2016.03.30-18.03.11:913][  0]LogMemory: Platform Memory Stats for Windows
+[2016.03.30-18.03.11:913][  0]LogMemory: Process Physical Memory: 54.69 MB used, 54.69 MB peak
+[2016.03.30-18.03.11:913][  0]LogMemory: Process Virtual Memory: 57.32 MB used, 57.32 MB peak
+[2016.03.30-18.03.11:913][  0]LogMemory: Physical Memory: 3671.41 MB used, 16298.86 MB total
+[2016.03.30-18.03.11:913][  0]LogMemory: Virtual Memory: 337.63 MB used, 8388608.00 MB total
+[2016.03.30-18.03.13:486][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.03.30-18.03.14:802][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 960 (Feature Level 11_0)
+[2016.03.30-18.03.14:802][  0]LogD3D11RHI: Adapter has 1969MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 1 output[s]
+[2016.03.30-18.03.14:802][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2016.03.30-18.03.14:806][  0]LogD3D11RHI: !Direct3DDevice
+[2016.03.30-18.03.14:806][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.03.30-18.03.14:812][  0]LogD3D11RHI: Async texture creation enabled
+[2016.03.30-18.03.15:017][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Intermediate/Shaders/WorkingDirectory/3684/).
+[2016.03.30-18.03.15:017][  0]LogShaderCompilers: Cleaned the shader compiler working directory '../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Intermediate/Shaders/tmp/24C5EA154DCC320CD197929BDD5CA770/'.
+[2016.03.30-18.03.15:017][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.03.30-18.03.33:728][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.03.30-18.03.33:732][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.03.30-18.03.33:736][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.03.30-18.03.33:739][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.03.30-18.03.33:742][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.03.30-18.03.33:748][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.03.30-18.03.33:750][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.03.30-18.03.33:753][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.03.30-18.03.33:755][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.03.30-18.03.33:758][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.03.30-18.03.33:760][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.03.30-18.03.33:763][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.03.30-18.03.33:764][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.03.30-18.03.33:826][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.03.30-18.03.33:829][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.03.30-18.03.33:831][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.03.30-18.03.33:837][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.03.30-18.03.33:837][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.03.30-18.03.34:437][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.03.30-18.03.34:890][  0]LogDerivedDataCache: Loaded boot cache 0.45s 41MB C:/Users/wofrick/AppData/Local/UnrealEngine/4.9/DerivedDataCache/Boot.ddc.
+[2016.03.30-18.03.34:890][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/wofrick/AppData/Local/UnrealEngine/4.9/DerivedDataCache/Boot.ddc
+[2016.03.30-18.03.34:890][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.03.30-18.03.34:890][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.03.30-18.03.34:890][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.03.30-18.03.34:890][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.03.30-18.03.35:032][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.03.30-18.03.35:043][  0]LogDerivedDataCache: Using Local data cache path C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.03.30-18.03.41:940][  0]LogInit: Selected Device Profile: [Windows]
+[2016.03.30-18.03.41:952][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2016.03.30-18.03.42:197][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.03.30-18.03.42:197][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.03.30-18.03.44:511][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.03.30-18.03.51:661][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.03.30-18.03.51:976][  0]LogAssetRegistry: FAssetRegistry took 0.0099 seconds to start up
+[2016.03.30-18.03.53:216][  0]SourceControl: Info Source control is disabled
+[2016.03.30-18.03.53:216][  0]SourceControl: Info Source control is disabled
+[2016.03.30-18.03.53:275][  0]SourceControl: Info Source control is disabled
+[2016.03.30-18.03.53:285][  0]SourceControl: Info Source control is disabled
+[2016.03.30-18.03.53:696][  0]LogLinker:Warning: Asset '../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_PassthroughMaterial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.03.30-18.03.53:826][  0]LogObj: 28361 objects as part of root set at end of initial load.
+[2016.03.30-18.03.53:826][  0]LogUObjectAllocator: 6038872 out of 0 bytes used by permanent object pool.
+[2016.03.30-18.03.54:095][  0]LogEngine: Initializing Engine...
+[2016.03.30-18.03.54:097][  0]LogHMD: Can't find Oculus library dev build: is proper Runtime installed? Version: 0.7.0.0
+[2016.03.30-18.03.54:113][  0]LogHMD: SteamVR failed to initialize.  Err: 110
+[2016.03.30-18.03.54:546][  0]LogAIModule: Creating AISystem for world NewWorld
+[2016.03.30-18.03.54:653][  0]LogInit: XAudio2 using 'Line (M-Audio FastTrack)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2016.03.30-18.03.54:661][  0]LogInit: FAudioDevice initialized.
+[2016.03.30-18.03.54:678][  0]LogDerivedDataCache: Saved boot cache 0.02s 41MB C:/Users/wofrick/AppData/Local/UnrealEngine/4.9/DerivedDataCache/Boot.ddc.
+[2016.03.30-18.03.54:680][  0]LogInit: Texture streaming: Enabled
+[2016.03.30-18.03.54:694][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2016.03.30-18.03.54:694][  0]LogAnalytics: [UEEditor.Rocket.Release] APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.9.2-2707645+++depot+UE4-Releases+4.9
+[2016.03.30-18.03.54:694][  0]LogAnalytics: [UEEditor.Rocket.Release] SetUserId 98df2dc1445a822864a190b111d5c75d|723ff2effdca4465b525b133c47388d1|af04b9a9-7c16-4837-b407-04b4731d3f30
+[2016.03.30-18.03.54:694][  0]LogAnalytics: [UEEditor.Rocket.Release] AnalyticsET::StartSession
+[2016.03.30-18.03.54:905][  0]LogInit: Transaction tracking system initialized
+[2016.03.30-18.03.54:974][  0]BlueprintLog: New page: Editor Load
+[2016.03.30-18.03.55:451][  0]LocalizationService: Info Localization service is disabled
+[2016.03.30-18.03.55:849][  0]LogConsoleResponse:Display: 
+[2016.03.30-18.03.57:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/' took 0.01s
+[2016.03.30-18.03.57:402][  0]LogCook:Display: Done creating registry. It took  0.00s.
+[2016.03.30-18.03.57:708][  0]SourceControl: Info Source control is disabled
+[2016.03.30-18.03.57:725][  0]Cmd: MAP LOAD FILE="../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.03.30-18.03.57:740][  0]LightingResults: New page: Lighting Build
+[2016.03.30-18.03.57:803][  0]MapCheck: New page: Map Check
+[2016.03.30-18.03.57:803][  0]LightingResults: New page: Lighting Build
+[2016.03.30-18.03.57:913][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002414A160
+[2016.03.30-18.03.58:236][  0]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/2DSideScrollerBP/Blueprints/weapons/BP_Angle_Grinder.BP_Angle_Grinder_C:UserConstructionScript; removing parent information, but keeping function
+[2016.03.30-18.03.58:249][  0]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/2DSideScrollerBP/Blueprints/weapons/BP_Rhombuster.BP_Rhombuster_C:UserConstructionScript; removing parent information, but keeping function
+[2016.03.30-18.03.58:652][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2016.03.30-18.03.58:859][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.03.30-18.03.58:882][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.03.30-18.03.58:959][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 76.818ms to complete.
+[2016.03.30-18.03.58:969][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 1.247
+[2016.03.30-18.03.59:462][  0]LogCollectionManager: Loaded 0 collections in 0.001258 seconds
+[2016.03.30-18.03.59:501][  0]LogFileCache: Scanning file cache for directory 'C:/Users/wofrick/Documents/Unreal Projects/DontBeASquare/Saved/Collections/' took 0.01s
+[2016.03.30-18.03.59:501][  0]LogFileCache: Scanning file cache for directory 'C:/Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/Developers/wofrick/Collections/' took 0.01s
+[2016.03.30-18.03.59:501][  0]LogFileCache: Scanning file cache for directory 'C:/Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/Collections/' took 0.01s
+[2016.03.30-18.03.59:501][  0]LogContentBrowser: Native class hierarchy populated in 0.0059 seconds. Added 1867 classes and 333 folders.
+[2016.03.30-18.03.59:513][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000005 seconds
+[2016.03.30-18.03.59:529][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2016.03.30-18.04.00:431][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2016.03.30-18.04.00:456][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2016.03.30-18.04.00:730][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.03.30-18.04.00:782][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.03.30-18.04.00:820][  0]LogLoad: Full Startup: 52.87 seconds (BP compile: 0.19 seconds)
+[2016.03.30-18.04.01:416][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.03.30-18.04.01:707][  0]LogRenderer: Reallocating scene render targets to support 1208x652 (Frame:2).
+[2016.03.30-18.04.02:297][  2]LogAssetRegistry: Asset discovery search completed in 10.3309 seconds
+[2016.03.30-18.04.02:297][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.03.30-18.04.02:297][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000021 seconds (updated 0 objects)
+[2016.03.30-18.04.10:710][756]LogLinker:Warning: Asset '../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.03.30-18.04.11:301][756]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 107 classes and 0 folders.
+[2016.03.30-18.04.14:565][933]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2016.03.30-18.06.17:592][131]BlueprintLog: New page: Compile BP_Weapon
+[2016.03.30-18.06.17:860][131]BlueprintEditorCompileResults: Info [0189.90] Compile of BP_Weapon successful! [in 267 ms]
+[2016.03.30-18.09.06:876][849]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2016.03.30-18.09.23:698][840]SourceControl: Info Source control is disabled
+[2016.03.30-18.09.27:565][301]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2016.03.30-18.11.37:604][193]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2016.03.30-18.14.01:408][185]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.021
+[2016.03.30-18.14.01:414][185]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/weapons/BP_Weapon] ([1] browsable assets)...
+[2016.03.30-18.14.01:414][185]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/weapons/BP_Weapon]
+[2016.03.30-18.14.01:454][185]LogSavePackage: Save=30.175552m
