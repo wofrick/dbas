@@ -469,266 +469,334 @@
 "../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 469
 "../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 470
 "../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Intermediate/CachedAssetRegistry.bin" 471
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_HUD.uasset" 472
-"C:/Users/wofrick/Documents/Unreal Projects/DontBeASquare/Saved/Cooked/WindowsNoEditor/DontBeASquare/CookedIniVersion.txt" 473
-"../../../Engine/Config/HTML5/HTML5Engine.ini" 474
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 475
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 476
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 477
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Weapon.uasset" 478
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/projectiles/BP_Projectile.uasset" 479
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 480
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/Angle_Grinder_Sprite.uasset" 481
-"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 482
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/Angle_Grinder.uasset" 483
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 484
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/dioblong/BP_Dioblong_Wave.uasset" 485
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/ringofhell_Sprite.uasset" 486
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/ringofhell.uasset" 487
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/enemies/BP_Enemy_Char.uasset" 488
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/equipment/BP_Equipment.uasset" 489
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/equipment/Deployed/BP_DeployedEquipment_Trap.uasset" 490
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/equipment/Deployed/BP_DeployedEquipment.uasset" 491
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/purpppppp_Sprite.uasset" 492
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/purpppppp.uasset" 493
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/powerups/BP_Powerup.uasset" 494
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 495
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/player_idle_Sprite.uasset" 496
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/player_idle.uasset" 497
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/enemies/BP_Enemy.uasset" 498
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/projectiles/BP_Projectile_Snipotenuse.uasset" 499
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/projectile_snipotenuse_Sprite.uasset" 500
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/projectile_snipotenuse.uasset" 501
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Angle_Grinder.uasset" 502
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/equipment/BP_Equipment_Trap.uasset" 503
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Trapezoid_Sprite.uasset" 504
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Trapezoid.uasset" 505
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/powerups/BP_Powerup_HealthBoost.uasset" 506
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/healthBoost_Sprite.uasset" 507
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/healthBoost.uasset" 508
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/powerups/BP_Powerup_Invincibility.uasset" 509
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Invincibility_Sprite.uasset" 510
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Invincibility.uasset" 511
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 512
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/player_move_Sprite.uasset" 513
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/player_move.uasset" 514
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 515
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 516
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 517
-"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 518
-"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 519
-"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 520
-"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 521
-"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 522
-"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 523
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 524
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 525
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 526
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 527
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 528
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 529
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 530
-"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 531
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 532
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 533
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 534
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 535
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 536
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 537
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 538
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 539
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 540
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 541
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 542
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 543
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 544
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 545
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 546
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 547
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 548
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 549
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 550
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 551
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 552
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 553
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 554
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 555
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 556
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 557
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 558
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 559
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 560
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 561
-"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 562
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 563
-"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 564
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 565
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 566
-"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 567
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 568
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 569
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 570
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 571
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorTutorial.uasset" 572
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 573
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 574
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 575
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 576
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 577
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 578
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 579
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 580
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 581
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 582
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 583
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 584
-"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 585
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 586
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 587
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 588
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 589
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 590
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 591
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 592
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 593
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 594
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 595
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 596
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 597
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 598
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 599
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/spawners/BP_Spawner_Equipment.uasset" 600
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Wave_Controller.uasset" 601
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/dioblong/BP_Dioblong.uasset" 602
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Dioblong_Sprite.uasset" 603
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Dioblong.uasset" 604
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/dioblong/BP_TurnAround.uasset" 605
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/spawners/BP_Spawner.uasset" 606
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/spawners/BP_Spawner_Weapon.uasset" 607
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Crossbow2.uasset" 608
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/weapon_crossbow_Sprite2.uasset" 609
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/weapon_crossbow.uasset" 610
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Rhombuster2.uasset" 611
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/weapon_rhombuster_Sprite.uasset" 612
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/weapon_rhombuster.uasset" 613
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Snipotenuse.uasset" 614
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/weapon_snipotenuse_Sprite.uasset" 615
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/weapon_snipotenuse.uasset" 616
-"../../../Engine/Content/BasicShapes/Cone.uasset" 617
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 618
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/projectiles/BP_Projectile_Rhombuster.uasset" 619
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/projectile_rhombuster_Sprite.uasset" 620
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/projectile_rhombuster.uasset" 621
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/projectiles/BP_Projectile_Crossbow.uasset" 622
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/projectile_crossbow_Sprite.uasset" 623
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/projectile_crossbow.uasset" 624
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/spawners/BP_Spawner_Enemy.uasset" 625
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/enemies/BP_Enemy_Char_Square.uasset" 626
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/square_Sprite.uasset" 627
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/square.uasset" 628
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_TurnAround.uasset" 629
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Spawner_Weapon.uasset" 630
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Spawner.uasset" 631
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_HUD_Controller.uasset" 632
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_HUD3D.uasset" 633
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Ground.uasset" 634
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/GRASS_Sprite.uasset" 635
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/GRASS.uasset" 636
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Dioblong_Wave.uasset" 637
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Dioblong.uasset" 638
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Crosshair.uasset" 639
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Crosshair__2__Sprite.uasset" 640
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Crosshair__2_.uasset" 641
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" 642
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 643
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle4.uasset" 644
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2dSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 645
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle3.uasset" 646
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle2.uasset" 647
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle1.uasset" 648
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_3BAF407E4E473CD503D7209546DA12F__5392C63823EEE5124CAC32639B681461A6C1F786.udd" 649
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_57F47BF1462B1EBA172BD6B2CD8BE1A__BA820AED3DC5244780C085F9672E6ACB559E083A.udd" 650
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_AB6AA2C7446A80A1D359D3AF5D5A97A__BC3667429B0019031895C3F1DE3FF71DDA510F9A.udd" 651
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 652
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_6.uasset" 653
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_5.uasset" 654
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_4.uasset" 655
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_3.uasset" 656
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_2.uasset" 657
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_16.uasset" 658
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_15.uasset" 659
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_14.uasset" 660
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_13.uasset" 661
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_12.uasset" 662
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_11.uasset" 663
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_10.uasset" 664
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_1.uasset" 665
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3B08BD29403F64D268EEC58DE9609__4D7B2292E08CBC2AAD165BF2BE233D4E40DD04C4.udd" 666
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_7C0C95E641BC4D34429EFF9E4D055ED__BEF4E00DEDF919494097AA45661FF35D4D5EECEE.udd" 667
-"../../../Engine/Content/Maps/Entry.umap" 668
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 669
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Maps/Splash.umap" 670
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/title_Sprite.uasset" 671
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/title.uasset" 672
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Maps/Arena.umap" 673
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/spawners/BP_Spawner_Powerup.uasset" 674
-"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 675
-"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 676
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Ledge.uasset" 677
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2dSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 678
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 679
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2dSideScroller/Materials/PrototypingSpriteMaterial.uasset" 680
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2dSideScroller/Textures/2DBackgroundTile.uasset" 681
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/0/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF5676B9A9__8CECB0802F2397DB2198087E5E42FC742B931809.udd" 682
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/9/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF5676B9A9__9CE40BD94E8D536317035359DC084F2A29E83C7F.udd" 683
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_3FFB6A1B4820D295EC65E99DF70952FB__1_0_13123_0.udd" 684
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 685
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Crossbow.uasset" 686
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_700A29B24951FEB9729111A89CA6EA4__B54538AE642BC099527C9C146FA0B4B0BB76D2E4.udd" 687
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_233FA8AE4CA3D755218BEEBC66C1FBB__571FC9CD94976B721352DACA25E63691381D2D44.udd" 688
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 689
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 690
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 691
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_0A33C5144514663884AA9B86EF61F09__EAB1042145EFBDD973065B0DC979D483D2A97A4B.udd" 692
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/weapon_crossbow_Sprite.uasset" 693
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_2BAA8AC3446C66C5849CDFB04E386F5__FD6309263118725AB0C8332E5114AE1ACB3D5620.udd" 694
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_7.uasset" 695
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle8.uasset" 696
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle7.uasset" 697
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle6.uasset" 698
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle5.uasset" 699
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_85D1508F40B2A92BB7B044A914C2679__5DA5FE22AA068CF50CD8239EA47F4C7314C66783.udd" 700
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 701
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_FEDC5E3942869D26C1DABC8CDED915B__8B5F20F473681C525EF481A15099A847A71049C4.udd" 702
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_2DACA25B4B4F0A31B25344B25296014__9BA4EE9A5D6256F6CE305109D9A15BAFAB2507BC.udd" 703
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FFA2C98049BDBA2C3A48419699776__D39CB405E1F2282B217CC05E0CCFFF713DB2F382.udd" 704
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 705
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2dSideScroller/Textures/2DBackground.uasset" 706
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 707
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 708
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D1E814BA40821C40AD8995ADAEF38__F6CEEFF353BA9D3DC00A0FD4AFCC7F996E7AA804.udd" 709
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D1E814BA40821C40AD8995ADAEF38__C83796E3C45183B5819DA3E4E26EA607CFBA43A0.udd" 710
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D1E814BA40821C40AD8995ADAEF38__980B21D1565B895812A2E534F397AD7CA25DEEFC.udd" 711
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_78B86D71484D3D040EEC1AAE5558067__F892B9F730854171A84594AED23B7A3D80D171DB.udd" 712
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1DD30503469E8DA9532378921C2D0__8054B5C55D10247FF5E9ABB39A60BAADACB80528.udd" 713
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/GROUND_Sprite.uasset" 714
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/GROUND.uasset" 715
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_51D4F5BC41FC71530AB5F8BEB8F50E8__CE2FD8ADB29D26EF06961181919D13A6000DD421.udd" 716
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 717
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_1D428AFB4E28C6962432F1B1191D03B__214B7A6C4AF4BD5108F5DBFCC0678C8AC7A7B6D7.udd" 718
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_3ADCED9149EA457069D45B90C1E81DD__4AD6889779C0A7BF1F7763C47578E7EAA736BF43.udd" 719
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_76B3C8634695834A321DAF9E3937EEF__8FE9775964893D460759E3E3D8759B9877FF5786.udd" 720
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_DF85AD1A433ADF925713449FCF4CDDE__03C584C29D968B0EC0AE847A03B908E7B86E03D6.udd" 721
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Crosshair__1__Sprite.uasset" 722
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Crosshair__1_.uasset" 723
-"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_C49A9D27470F40F5DC43958BE419060__4B2A42B70F648B6AD0961C9CC189834563805F93.udd" 724
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_8.uasset" 725
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 726
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_9.uasset" 727
-"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Saved/Stats/2016.04.18-20.44.24Stats.csv" 728
-"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 729
-"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 730
-"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 731
-"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 732
-"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 733
-"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 734
+"C:/Users/wofrick/Documents/Unreal Projects/DontBeASquare/Saved/Cooked/WindowsNoEditor/DontBeASquare/CookedIniVersion.txt" 472
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 473
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 474
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 475
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 476
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Weapon.uasset" 477
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/projectiles/BP_Projectile.uasset" 478
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/projectiles/BP_Projectile_Gauss_Rifle.uasset" 479
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/gaussprojfhdjkflf_Sprite.uasset" 480
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 481
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/gaussprojfhdjkflf.uasset" 482
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/gauss.uasset" 483
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 484
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/Angle_Grinder_Sprite.uasset" 485
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/AngleGrinder.uasset" 486
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 487
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/dioblong/BP_Dioblong_Wave.uasset" 488
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/ringofhell_Sprite.uasset" 489
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/ringofhell.uasset" 490
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/enemies/BP_Enemy_Char.uasset" 491
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/equipment/BP_Equipment.uasset" 492
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/equipment/Deployed/BP_DeployedEquipment_Trap.uasset" 493
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/equipment/Deployed/BP_DeployedEquipment.uasset" 494
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/purpppppp_Sprite.uasset" 495
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/purpppppp.uasset" 496
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/powerups/BP_Powerup.uasset" 497
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/projectiles/BP_Projectile_Scatterplotshot.uasset" 498
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/projectile_rhombuster_Sprite.uasset" 499
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/projectile_rhombuster.uasset" 500
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 501
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/player_idle_Sprite.uasset" 502
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/player_idle.uasset" 503
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/enemies/BP_Enemy.uasset" 504
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/projectiles/BP_Projectile_Snipotenuse.uasset" 505
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/snip.uasset" 506
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/projectile_snipotenuse_Sprite.uasset" 507
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/projectile_snipotenuse.uasset" 508
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Angle_Grinder.uasset" 509
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/SW_Anglegrinder.uasset" 510
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/equipment/BP_Equipment_Trap.uasset" 511
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Trapezoid_Sprite.uasset" 512
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Trapezoid.uasset" 513
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/powerups/BP_Powerup_HealthBoost.uasset" 514
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/healthBoost_Sprite.uasset" 515
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/healthBoost.uasset" 516
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/powerups/BP_Powerup_Invincibility.uasset" 517
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Invincibility_Sprite.uasset" 518
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Invincibility.uasset" 519
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Scatterplotshot.uasset" 520
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/scatterplotshot_Sprite.uasset" 521
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/scatterplotshot.uasset" 522
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/shotty.uasset" 523
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/SW_Hurt.uasset" 524
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 525
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/player_move_Sprite.uasset" 526
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/player_move.uasset" 527
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/8/AUDIO_0002_0000_OGG_0001_CE09AE5643111292219406AD5520B19E.udd" 528
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/8/AUDIO_0002_0000_OGG_0001_201D63794067F59177C5D8A1B3CEC5E2.udd" 529
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/7/AUDIO_0002_0000_OGG_0001_E78820034424C76EF6EFEAB020247643.udd" 530
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/0/AUDIO_0002_0000_OGG_0001_50E68A4447BA0E81065603A6D2B0150C.udd" 531
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/6/AUDIO_0002_0000_OGG_0001_EA074657420D1C2B6414BF90FC25127D.udd" 532
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 533
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 534
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 535
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 536
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 537
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 538
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 539
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 540
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 541
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 542
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 543
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 544
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 545
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 546
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 547
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 548
+"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 549
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 550
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 551
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 552
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 553
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 554
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 555
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 556
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 557
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 558
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 559
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 560
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 561
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 562
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 563
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 564
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 565
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 566
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 567
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 568
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 569
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 570
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 571
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 572
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 573
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 574
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 575
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 576
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 577
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 578
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 579
+"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 580
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 581
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 582
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 583
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 584
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 585
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 586
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 587
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 588
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 589
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorTutorial.uasset" 590
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 591
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 592
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 593
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 594
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 595
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 596
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 597
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 598
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 599
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 600
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 601
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 602
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 603
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 604
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 605
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 606
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 607
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 608
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 609
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 610
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 611
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 612
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 613
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 614
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 615
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/spawners/BP_Spawner_Weapon.uasset" 616
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/spawners/BP_Spawner.uasset" 617
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Bazookite.uasset" 618
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/bazookite_Sprite.uasset" 619
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/bazookite.uasset" 620
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Crossbow2.uasset" 621
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/weapon_crossbow_Sprite2.uasset" 622
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/weapon_crossbow.uasset" 623
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Gauss_Rifle.uasset" 624
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/gaussRifle_Sprite.uasset" 625
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/gaussRifle.uasset" 626
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Rhombuster2.uasset" 627
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/weapon_rhombuster_Sprite.uasset" 628
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/weapon_rhombuster.uasset" 629
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Snipotenuse.uasset" 630
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/weapon_snipotenuse_Sprite.uasset" 631
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/weapon_snipotenuse.uasset" 632
+"../../../Engine/Content/BasicShapes/Cone.uasset" 633
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/projectiles/BP_Projectile_Rhombuster.uasset" 634
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/SW_Rhombuster.uasset" 635
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/4/AUDIO_0002_0000_OGG_0001_79FFFBD64B1F2F910B04FB860FDC3287.udd" 636
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/gaussRifleFix_Sprite.uasset" 637
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/gaussRifleFix.uasset" 638
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/projectiles/BP_Projectile_Crossbow.uasset" 639
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/SW_Crossbow.uasset" 640
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/projectile_crossbow_Sprite.uasset" 641
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/projectile_crossbow.uasset" 642
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/7/AUDIO_0002_0000_OGG_0001_1C0DD2C947FF3B4C8BCCDE81F74C4F7F.udd" 643
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/projectiles/BP_Projectile_Bazookite.uasset" 644
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Explosion.uasset" 645
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/dioblong/BP_Dioblong.uasset" 646
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Wave_Controller.uasset" 647
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Dioblong_Sprite.uasset" 648
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Dioblong.uasset" 649
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/dioblong/BP_TurnAround.uasset" 650
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/319712__manuts__explosion.uasset" 651
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/explosion_Sprite.uasset" 652
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/explosion.uasset" 653
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/bazookite.uasset" 654
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/bazookiteProj_Sprite.uasset" 655
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/bazookiteProj.uasset" 656
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/7/AUDIO_0002_0000_OGG_0001_2517E1D0438ADE42EB95448696F5D089.udd" 657
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/1/AUDIO_0002_0000_OGG_0001_33E6C23640FEEA78573C15B24C607BA0.udd" 658
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/spawners/BP_Spawner_Powerup.uasset" 659
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/spawners/BP_Spawner_Equipment.uasset" 660
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 661
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/spawners/BP_Spawner_Enemy.uasset" 662
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/enemies/BP_Enemy_Char_Square.uasset" 663
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/square_Sprite.uasset" 664
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/square.uasset" 665
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_TurnAround.uasset" 666
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Spawner_Weapon.uasset" 667
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Spawner.uasset" 668
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_HUD_Controller.uasset" 669
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_HUD.uasset" 670
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_HUD3D.uasset" 671
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Ground.uasset" 672
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/GRASS_Sprite.uasset" 673
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/GRASS.uasset" 674
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Dioblong_Wave.uasset" 675
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Dioblong.uasset" 676
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Dioblocator.uasset" 677
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/dioblocator_Sprite.uasset" 678
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/dioblocator.uasset" 679
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/BP_Crosshair.uasset" 680
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Crosshair__2__Sprite.uasset" 681
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Crosshair__2_.uasset" 682
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" 683
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 684
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3B08BD29403F64D268EEC58DE9609__4D7B2292E08CBC2AAD165BF2BE233D4E40DD04C4.udd" 685
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1DD30503469E8DA9532378921C2D0__8054B5C55D10247FF5E9ABB39A60BAADACB80528.udd" 686
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/heck_Sprite.uasset" 687
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/heck.uasset" 688
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_BBA2751349DA50BBDEAC61980E00F40__EBAA065FAE898A50371CCE8F50DF23B120DA7D96.udd" 689
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Blueprints/weapons/BP_Crossbow.uasset" 690
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 691
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_8.uasset" 692
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_7.uasset" 693
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_6.uasset" 694
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_5.uasset" 695
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_4.uasset" 696
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_3.uasset" 697
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_2.uasset" 698
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_16.uasset" 699
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_15.uasset" 700
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_14.uasset" 701
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_13.uasset" 702
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_12.uasset" 703
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_11.uasset" 704
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_10.uasset" 705
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_1.uasset" 706
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle8.uasset" 707
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle7.uasset" 708
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle6.uasset" 709
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle5.uasset" 710
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle4.uasset" 711
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle3.uasset" 712
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle2.uasset" 713
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle1.uasset" 714
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_3BAF407E4E473CD503D7209546DA12F__5392C63823EEE5124CAC32639B681461A6C1F786.udd" 715
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_57F47BF1462B1EBA172BD6B2CD8BE1A__BA820AED3DC5244780C085F9672E6ACB559E083A.udd" 716
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_FEDC5E3942869D26C1DABC8CDED915B__8B5F20F473681C525EF481A15099A847A71049C4.udd" 717
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_700A29B24951FEB9729111A89CA6EA4__B54538AE642BC099527C9C146FA0B4B0BB76D2E4.udd" 718
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FFA2C98049BDBA2C3A48419699776__D39CB405E1F2282B217CC05E0CCFFF713DB2F382.udd" 719
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_1D428AFB4E28C6962432F1B1191D03B__214B7A6C4AF4BD5108F5DBFCC0678C8AC7A7B6D7.udd" 720
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_7C0C95E641BC4D34429EFF9E4D055ED__BEF4E00DEDF919494097AA45661FF35D4D5EECEE.udd" 721
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_AF5AC1B6481F3EF7FB723BA05A566FF__C4B4B4BBBFCFC76A812440F70249C28AE2A1E4AC.udd" 722
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/65734__erdie__bow02.uasset" 723
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/49697__ejfortin__kama-swipe-1.uasset" 724
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/35683__jobro__laser6.uasset" 725
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/246015__carloscav__crossbow-ballesta.uasset" 726
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/170149__timgormly__8-bit-hurt.uasset" 727
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/149177__deathnsorrow__shot-and-reload.uasset" 728
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset" 729
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2dSideScroller/Textures/2DBackgroundTile.uasset" 730
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/0/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF5676B9A9__8CECB0802F2397DB2198087E5E42FC742B931809.udd" 731
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/9/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF5676B9A9__9CE40BD94E8D536317035359DC084F2A29E83C7F.udd" 732
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 733
+"../../../Engine/Content/Maps/Entry.umap" 734
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 735
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Maps/Splash.umap" 736
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/title_Sprite.uasset" 737
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/title.uasset" 738
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScrollerBP/Maps/Arena.umap" 739
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 740
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 741
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/SW_Music.uasset" 742
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/6/AUDIO_0002_0000_OGG_0001_397DD6F14CF97CA852B42FA2BF441AAE.udd" 743
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_3FFB6A1B4820D295EC65E99DF70952FB__1_0_13123_0.udd" 744
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 745
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D1E814BA40821C40AD8995ADAEF38__F6CEEFF353BA9D3DC00A0FD4AFCC7F996E7AA804.udd" 746
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D1E814BA40821C40AD8995ADAEF38__C83796E3C45183B5819DA3E4E26EA607CFBA43A0.udd" 747
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D1E814BA40821C40AD8995ADAEF38__980B21D1565B895812A2E534F397AD7CA25DEEFC.udd" 748
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_B5968B0049E0EC0FDAE2909FC5A593B__6BB4C933678673048D21B99D891493415F328B4D.udd" 749
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_78B86D71484D3D040EEC1AAE5558067__F892B9F730854171A84594AED23B7A3D80D171DB.udd" 750
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_2DACA25B4B4F0A31B25344B25296014__9BA4EE9A5D6256F6CE305109D9A15BAFAB2507BC.udd" 751
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/GROUND_Sprite.uasset" 752
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/GROUND.uasset" 753
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_51D4F5BC41FC71530AB5F8BEB8F50E8__CE2FD8ADB29D26EF06961181919D13A6000DD421.udd" 754
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_2AFAF2BC427B1A3D9CE530B51463F99__1681BB6507CF1E8DE3C7661D2475D7AEB0B45C72.udd" 755
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 756
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2dSideScroller/Textures/2DBackground.uasset" 757
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sounds/SW_Snipotenuse.uasset" 758
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/4/AUDIO_0002_0000_OGG_0001_1E2C0CF4470409C2281EF5BFD6321610.udd" 759
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 760
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 761
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 762
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 763
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_DF85AD1A433ADF925713449FCF4CDDE__03C584C29D968B0EC0AE847A03B908E7B86E03D6.udd" 764
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_233FA8AE4CA3D755218BEEBC66C1FBB__571FC9CD94976B721352DACA25E63691381D2D44.udd" 765
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_E16C8D9D4A1C29DEFC506DAAD654238__9BFAD6D5021F25E2EA9C21AEF0DCEEA4CD918B6D.udd" 766
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Crosshair__1_.uasset" 767
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_C49A9D27470F40F5DC43958BE419060__4B2A42B70F648B6AD0961C9CC189834563805F93.udd" 768
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 769
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_0A33C5144514663884AA9B86EF61F09__EAB1042145EFBDD973065B0DC979D483D2A97A4B.udd" 770
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_2BAA8AC3446C66C5849CDFB04E386F5__FD6309263118725AB0C8332E5114AE1ACB3D5620.udd" 771
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_4BD1406C4CCE82C41B02FDB82D75D72__E8F5449084E199155954EB4587A18C3958C710C2.udd" 772
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/Angle_Grinder.uasset" 773
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_76B3C8634695834A321DAF9E3937EEF__8FE9775964893D460759E3E3D8759B9877FF5786.udd" 774
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 775
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Ledge.uasset" 776
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/hell_Sprite.uasset" 777
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/hell.uasset" 778
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_2E11F0034250B13E47AD63956C7D0BB__1B567A9CE62968DED46D7E3AA53B2FFF1062186F.udd" 779
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 780
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 781
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_3ADCED9149EA457069D45B90C1E81DD__4AD6889779C0A7BF1F7763C47578E7EAA736BF43.udd" 782
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_6CF300EF43BABAA65ABD799E37460DB__4F6D4B776A8DDFC1DF9CC4C48EA9BB8A1CB19F92.udd" 783
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_39749AE0432410B3544CFBA489FFB0D__4AA33339595656B081385C2923D3CEDAE8DE033D.udd" 784
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 785
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_08D53BE24D344AEBBCA09EAD6E540AA__5F07B5E5E0586833021C24162FBB6FD77A5EA33C.udd" 786
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_AB6AA2C7446A80A1D359D3AF5D5A97A__BC3667429B0019031895C3F1DE3FF71DDA510F9A.udd" 787
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Weapons/weapon_crossbow_Sprite.uasset" 788
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_8FB12345430213AC68D6F1BB3D79166__CBE61F9BF434B1BF61AEFFD7EC84816311E8F523.udd" 789
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/RunFrames/RunCycle_9.uasset" 790
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Content/2DSideScroller/Sprites/Crosshair__1__Sprite.uasset" 791
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 792
+"C:/Users/wofrick/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_239522AF427238EB38A27FBDF3D0D1A__2AD081222BF731D834030A931FA407918AC60A11.udd" 793
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 794
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 795
+"../../../../../../Users/wofrick/Documents/Unreal Projects/DontBeASquare/Saved/Stats/2016.05.01-19.29.46Stats.csv" 796
+"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 797
+"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 798
+"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 799
+"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 800
+"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 801
+"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 802
